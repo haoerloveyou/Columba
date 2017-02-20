@@ -51,10 +51,8 @@
 	
 	if(self.backdropView) {
 		for(UIView *view in self.backdropView.subviews) {
-			if([view isKindOfClass:objc_getClass("_UIBackdropEffectView")]) {
-				id msgCustomizerObject = [[objc_getClass("CHQuickSwitcher") alloc] init];
-				
-				if(!msgCustomizerObject) {
+			if([view isKindOfClass:objc_getClass("_UIBackdropEffectView")]) {				
+				if(![Columba isMessagesCustomizerInstalled]) {
 					[view _replaceLayer:nil];
 				}
 				

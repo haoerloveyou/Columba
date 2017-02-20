@@ -12,6 +12,7 @@
 
 + (BOOL)isActivatorInstalled;
 + (BOOL)isLibStatusBarInstalled;
++ (BOOL)isMessagesCustomizerInstalled;
 + (void)loadActivator;
 + (void)loadLibStatusBar;
 + (float)currentVersion;
