@@ -1,0 +1,59 @@
+"CK.template" = "Skabelon";
+
+"Button.History" = "Historie";
+"Button.Forward" = "Videresend";
+
+"Prefs.QC" = "Hurtig Opret Besked";
+"Prefs.UI" = "Brugerflade";
+"Prefs.OSK" = "Tastatur";
+"Prefs.ScheduledMsgs" = "Planlagte Beskeder";
+"Prefs.Templates" = "Besked Skabelon";
+"Prefs.Support" = "Support";
+"Prefs.Updates" = "Updatering";
+"Prefs.About" = "Omkring";
+
+"Prefs.Credits" = "Udvilket af Mohamed Marbouh";
+
+"Prefs.Website" = "Hjemmeside";
+
+"Prefs.Native" = "Indfødt";
+"Prefs.Windowed" = "Vinduestilstand";
+
+"Prefs.UI.BG" = "Sløret Baggrund";
+"Prefs.UI.ButtonsLink" = "Knapper";
+
+"Prefs.UI.Buttons.All" = "Slå alle til";
+
+"Prefs.OSK.Emoji" = "Emoji Popup";
+
+"Prefs.ScheduledMsgs.ScheduledMsg" = "Planlagt Besked";
+"Prefs.ScheduledMsgs.Recipient" = "Modtager";
+"Prefs.ScheduledMsgs.Text" = "Tekst";
+"Prefs.ScheduledMsgs.Date" = "Dato";
+"Prefs.ScheduledMsgs.ScheduleMsg" = "Planlagt Besked";
+"Prefs.ScheduledMsgs.Past" = "Fortid";
+"Prefs.ScheduledMsgs.Future" = "Fremtid";
+"Prefs.ScheduledMsgs.DeleteTitle" = "Komplet Sletning";
+"Prefs.ScheduledMsgs.DeleteMsg" = "Du skal genstarte SpringBoard før effekten kan tages i brug, vil du gøre det nu?";
+
+"Prefs.Templates.Config" = "Skabelon Opsætning";
+"Prefs.Templates.Create" = "Lav Skabelon";
+
+"Prefs.Support.Email" = "Send en e-mail";
+"Prefs.Support.Translate" = "Hjælp med at oversætte Columba";
+
+"Prefs.Updates.Current" = "Nuværende version";
+"Prefs.Updates.Latest" = "Sidste version";
+"Prefs.Updates.Changes" = "Nyeste changes";
+"Prefs.Updates.NoChanges" = "Ingen ændringer";
+
+"Prefs.About.Main" = "Hoved ikon";
+"Prefs.About.Other" = "Andre ikoner";
+
+"AlertCtrl.History.FailedToRetrieve" = "Kunne ikke indlæse besked historik";
+
+"Emoji.NoTemplates" = "Du har ingen skabeloner.\n\nBrug venligst instillings siden for at tilføje en skabelon .";
+
+"ScheduledMsg.Error.Subtitle" = "Skub til at sende manuelt";
+"ScheduledMsg.Error.Summary" = "Kunne ikke sende planlagt besked";
+"ScheduledMsg.Error.Message" = "Tryk her for at sende manualt";

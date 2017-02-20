@@ -1,0 +1,65 @@
+"CB.schedule" = " 列入计画表";
+"CB.templates" = "范本";
+"CB.attachments" = "附件";
+
+"CK.template" = "模板";
+
+"Button.History" = "记录";
+"Button.Forward" = "转发";
+
+"Prefs.QC" = "快撰写";
+"Prefs.UI" = "界面";
+"Prefs.OSK" = "屏幕键盘";
+"Prefs.ScheduledMsgs" = "定期发送短信";
+"Prefs.Templates" = "短信模板";
+"Prefs.Support" = "支持";
+"Prefs.Updates" = "更新";
+"Prefs.About" = "关于";
+
+"Prefs.Credits" = "由Mohamed Marbouh开发";
+
+"Prefs.Website" = "网站";
+
+"Prefs.Native" = "本机";
+"Prefs.Windowed" = "窗口";
+
+"Prefs.UI.BG" = "模糊背景";
+"Prefs.UI.ButtonsLink" = "按钮";
+
+"Prefs.UI.Buttons.All" = "切换所有";
+
+"Prefs.OSK.Emoji" = "屏幕表情符号键盘";
+
+"Prefs.ScheduledMsgs.ScheduledMsg" = "定期发送短信";
+"Prefs.ScheduledMsgs.Recipient" = "接受者";
+"Prefs.ScheduledMsgs.Text" = "输入文本";
+"Prefs.ScheduledMsgs.Date" = "日期";
+"Prefs.ScheduledMsgs.ScheduleMsg" = "定期";
+"Prefs.ScheduledMsgs.Past" = "以前";
+"Prefs.ScheduledMsgs.Future" = "前途";
+"Prefs.ScheduledMsgs.DeleteTitle" = "确认删除";
+"Prefs.ScheduledMsgs.DeleteMsg" = "你必须重新启动SpringBoard 使更改生效。 现在重新启动？";
+
+"Prefs.Templates.Config" = "模板配置";
+"Prefs.Templates.Create" = "新模板";
+
+"Prefs.Support.Email" = "发送电子邮件";
+"Prefs.Support.Translate" = "帮翻译Columba";
+
+"Prefs.Updates.Current" = "当前版本";
+"Prefs.Updates.Latest" = "最新版本";
+"Prefs.Updates.Changes" = "更新日志";
+"Prefs.Updates.NoChanges" = "没有更新";
+
+"Prefs.About.Main" = "主图标";
+"Prefs.About.Other" = "其他图标";
+
+"DRM.Message" = "请购买 Columba";
+
+"AlertCtrl.History.FailedToRetrieve" = "无法加载议论记录";
+
+"Emoji.NoTemplates" = "你没有模板。\n\n请使用设置页面添加模板。";
+
+"ScheduledMsg.Error.Subtitle" = "滑动此处手动发送";
+"ScheduledMsg.Error.Summary" = "无法发送定期短信";
+"ScheduledMsg.Error.Message" = "点击此处手动发送";

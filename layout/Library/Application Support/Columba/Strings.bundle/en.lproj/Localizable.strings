@@ -1,0 +1,73 @@
+"CB.schedule" = "Schedule";
+"CB.templates" = "Templates";
+"CB.attachments" = "Attachments";
+
+"CK.template" = "Template";
+
+"Button.History" = "History";
+"Button.Forward" = "Forward";
+
+"Prefs.QC" = "Quick Compose";
+"Prefs.UI" = "Interface";
+"Prefs.OSK" = "On-Screen Keyboard";
+"Prefs.ScheduledMsgs" = "Scheduled Messages";
+"Prefs.Templates" = "Message Templates";
+"Prefs.Support" = "Support";
+"Prefs.Updates" = "Updates";
+"Prefs.About" = "About";
+
+"Prefs.Credits" = "Developed by Mohamed Marbouh";
+
+"Prefs.Website" = "Website";
+
+"Prefs.Native" = "Native";
+"Prefs.Windowed" = "Windowed";
+
+"Prefs.UI.BG" = "Blurred Background";
+
+"Prefs.UI.BG.ExtraLight" = "Extra Light";
+"Prefs.UI.BG.Light" = "Light";
+"Prefs.UI.BG.Dark" = "Dark";
+
+"Prefs.UI.ButtonsLink" = "Buttons";
+
+"Prefs.UI.Buttons.All" = "Toggle All";
+
+"Prefs.OSK.Emoji" = "Emoji Popup";
+
+"Prefs.ScheduledMsgs.ScheduledMsg" = "Scheduled Message";
+"Prefs.ScheduledMsgs.Recipient" = "Recipient";
+"Prefs.ScheduledMsgs.Text" = "Text";
+"Prefs.ScheduledMsgs.Date" = "Date";
+"Prefs.ScheduledMsgs.ScheduleMsg" = "Schedule Message";
+"Prefs.ScheduledMsgs.Past" = "Past";
+"Prefs.ScheduledMsgs.Future" = "Future";
+"Prefs.ScheduledMsgs.DeleteTitle" = "Complete deletion";
+"Prefs.ScheduledMsgs.DeleteMsg" = "You must restart SpringBoard for the changes to take effect, would you like to do it now?";
+
+"Prefs.Templates.Config" = "Template Configuration";
+"Prefs.Templates.Create" = "Create Template";
+
+"Prefs.Support.Email" = "Send an e-mail";
+"Prefs.Support.Translate" = "Help translate Columba";
+
+"Prefs.Updates.Current" = "Current version";
+"Prefs.Updates.Latest" = "Latest version";
+"Prefs.Updates.Changes" = "Latest changes";
+"Prefs.Updates.NoChanges" = "No changes";
+"Prefs.Updates.Available" = "There is a new version available.";
+
+"Prefs.Logging" = "Logging";
+
+"Prefs.About.Main" = "Main icon";
+"Prefs.About.Other" = "Other icons";
+
+"DRM.Message" = "Please buy Columba";
+
+"AlertCtrl.History.FailedToRetrieve" = "Failed to load conversation history";
+
+"Emoji.NoTemplates" = "You have no templates.\n\nPlease use the settings page to add templates.";
+
+"ScheduledMsg.Error.Subtitle" = "Slide to send manually";
+"ScheduledMsg.Error.Summary" = "Failed to send scheduled message";
+"ScheduledMsg.Error.Message" = "Tap here to send manually";

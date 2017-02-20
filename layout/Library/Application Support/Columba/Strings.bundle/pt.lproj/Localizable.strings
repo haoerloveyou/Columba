@@ -1,0 +1,59 @@
+"CK.template" = "Modelo";
+
+"Button.History" = "Histórico";
+"Button.Forward" = "Encaminhar";
+
+"Prefs.QC" = "Composição Rápida";
+"Prefs.UI" = "Interface";
+"Prefs.OSK" = "Teclado On-Screen";
+"Prefs.ScheduledMsgs" = "Mensagens Agendadas";
+"Prefs.Templates" = "Modelos de Mensagem";
+"Prefs.Support" = "Suporte";
+"Prefs.Updates" = "Atualizações";
+"Prefs.About" = "Acerca";
+
+"Prefs.Credits" = "Desenvolvido por Mohamed Marbouh";
+
+"Prefs.Website" = "Website";
+
+"Prefs.Native" = "Nativo";
+"Prefs.Windowed" = "Windowed";
+
+"Prefs.UI.BG" = "Fundo Desfocado";
+"Prefs.UI.ButtonsLink" = "Botões";
+
+"Prefs.UI.Buttons.All" = "Ativar Todos";
+
+"Prefs.OSK.Emoji" = "Popup Emoji";
+
+"Prefs.ScheduledMsgs.ScheduledMsg" = "Mensagem Agendada";
+"Prefs.ScheduledMsgs.Recipient" = "Destinatário";
+"Prefs.ScheduledMsgs.Text" = "Texto";
+"Prefs.ScheduledMsgs.Date" = "Data";
+"Prefs.ScheduledMsgs.ScheduleMsg" = "Agendar Mensagem";
+"Prefs.ScheduledMsgs.Past" = "Passado";
+"Prefs.ScheduledMsgs.Future" = "Futuro";
+"Prefs.ScheduledMsgs.DeleteTitle" = "Eliminação Completa";
+"Prefs.ScheduledMsgs.DeleteMsg" = "Deve reiniciar o SpringBoard para as alterações terem efeito, deseja fazê-lo agora?";
+
+"Prefs.Templates.Config" = "Configuração dos Modelos";
+"Prefs.Templates.Create" = "Criar Modelos";
+
+"Prefs.Support.Email" = "Enviar um e-mail";
+"Prefs.Support.Translate" = "Ajude a traduzir o Columba";
+
+"Prefs.Updates.Current" = "Versão Atual";
+"Prefs.Updates.Latest" = "Última versão";
+"Prefs.Updates.Changes" = "Últimas alterações";
+"Prefs.Updates.NoChanges" = "Sem alterações";
+
+"Prefs.About.Main" = "Ícone Principal";
+"Prefs.About.Other" = "Outros ícones";
+
+"AlertCtrl.History.FailedToRetrieve" = "Falha ao carregar o histórico de conversações";
+
+"Emoji.NoTemplates" = "Não tem modelos.\n\nPor favor,, use as definições para adicionar modelos.";
+
+"ScheduledMsg.Error.Subtitle" = "Deslize para enviar manualmente";
+"ScheduledMsg.Error.Summary" = "Falha ao enviar mensagem agendada";
+"ScheduledMsg.Error.Message" = "Toque aqui para enviar manualmente";

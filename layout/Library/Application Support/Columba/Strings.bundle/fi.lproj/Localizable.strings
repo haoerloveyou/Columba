@@ -1,0 +1,59 @@
+"CK.template" = "Malli";
+
+"Button.History" = "Historia";
+"Button.Forward" = "Eteenpäin";
+
+"Prefs.QC" = "Nopea viesti";
+"Prefs.UI" = "Käyttöliittymä";
+"Prefs.OSK" = "On-Screen näppäimistö";
+"Prefs.ScheduledMsgs" = "Ajoitetut viestit";
+"Prefs.Templates" = "Viestimallit";
+"Prefs.Support" = "Tuki";
+"Prefs.Updates" = "Päivitykset";
+"Prefs.About" = "Tietoa";
+
+"Prefs.Credits" = "Kehittänyt Mohamed Marbouh";
+
+"Prefs.Website" = "www";
+
+"Prefs.Native" = "Natiivi";
+"Prefs.Windowed" = "Ikkunassa";
+
+"Prefs.UI.BG" = "Sumennettu tausta";
+"Prefs.UI.ButtonsLink" = "Painikkeet";
+
+"Prefs.UI.Buttons.All" = "Valitse kaikki";
+
+"Prefs.OSK.Emoji" = "Emoji Popup";
+
+"Prefs.ScheduledMsgs.ScheduledMsg" = "Ajastettu viesti";
+"Prefs.ScheduledMsgs.Recipient" = "Vastaanottaja";
+"Prefs.ScheduledMsgs.Text" = "Teksti";
+"Prefs.ScheduledMsgs.Date" = "Päiväys";
+"Prefs.ScheduledMsgs.ScheduleMsg" = "Ajoita viesti";
+"Prefs.ScheduledMsgs.Past" = "Mennyt";
+"Prefs.ScheduledMsgs.Future" = "Tuleva";
+"Prefs.ScheduledMsgs.DeleteTitle" = "Poista kokonaan";
+"Prefs.ScheduledMsgs.DeleteMsg" = "Uudelleenkäynnistä SpringBoard ottaaksesi muutokset käyttöön, haluatko tehdä niin nyt?";
+
+"Prefs.Templates.Config" = "Mallin asetukset";
+"Prefs.Templates.Create" = "Luo malli";
+
+"Prefs.Support.Email" = "Lähetä e-mail";
+"Prefs.Support.Translate" = "Auta kääntämään Columba";
+
+"Prefs.Updates.Current" = "Nykyinen versio";
+"Prefs.Updates.Latest" = "Viimeisin versio";
+"Prefs.Updates.Changes" = "Viimeisimmät muutokset";
+"Prefs.Updates.NoChanges" = "Ei muutoksia";
+
+"Prefs.About.Main" = "Oletusikoni";
+"Prefs.About.Other" = "Muut ikonit";
+
+"AlertCtrl.History.FailedToRetrieve" = "Keskusteluhistoriaa ei saatu ladattua";
+
+"Emoji.NoTemplates" = "Sinulla ei ole malleja.\n\nOle hyvä ja määrittele mallit asetuksissa.";
+
+"ScheduledMsg.Error.Subtitle" = "Pyyhkäise lähettääksesi manuaalisesti";
+"ScheduledMsg.Error.Summary" = "Ajoitetun viestin lähettäminen epäonnistui";
+"ScheduledMsg.Error.Message" = "Paina tästä lähettääksesi manuaalisesti";

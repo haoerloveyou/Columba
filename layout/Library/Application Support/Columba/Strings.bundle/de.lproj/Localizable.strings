@@ -1,0 +1,59 @@
+"CK.template" = "Vorlage";
+
+"Button.History" = "Historie";
+"Button.Forward" = "Vorwärts";
+
+"Prefs.QC" = "Schnell verfassen";
+"Prefs.UI" = "Interface";
+"Prefs.OSK" = "Bildschirmtastatur";
+"Prefs.ScheduledMsgs" = "Terminierte Nachricht";
+"Prefs.Templates" = "Nachrichtenvorlagen";
+"Prefs.Support" = "Hilfe";
+"Prefs.Updates" = "Updates";
+"Prefs.About" = "Über";
+
+"Prefs.Credits" = "Entwickelt von Mohamed Marbouh";
+
+"Prefs.Website" = "Webseite";
+
+"Prefs.Native" = "Standard";
+"Prefs.Windowed" = "Im Fenster";
+
+"Prefs.UI.BG" = "Verschwommener Hintergrund";
+"Prefs.UI.ButtonsLink" = "Schalter";
+
+"Prefs.UI.Buttons.All" = "Alle umschalten";
+
+"Prefs.OSK.Emoji" = "Emoji Dialogfenster";
+
+"Prefs.ScheduledMsgs.ScheduledMsg" = "Terminierte Nachricht";
+"Prefs.ScheduledMsgs.Recipient" = "Empfänger";
+"Prefs.ScheduledMsgs.Text" = "Text";
+"Prefs.ScheduledMsgs.Date" = "Datum";
+"Prefs.ScheduledMsgs.ScheduleMsg" = "Nachricht terminieren";
+"Prefs.ScheduledMsgs.Past" = "Vergangenheit";
+"Prefs.ScheduledMsgs.Future" = "Zukunft";
+"Prefs.ScheduledMsgs.DeleteTitle" = "Vollständig löschen";
+"Prefs.ScheduledMsgs.DeleteMsg" = "Zum Übernehmen der Änderungen muss das SpringBoard neu gestartet werden. Soll SpringBoard jetzt neu gestartet werden?";
+
+"Prefs.Templates.Config" = "Vorlagenkonfiguration";
+"Prefs.Templates.Create" = "Vorlage erstellen";
+
+"Prefs.Support.Email" = "E-mail senden";
+"Prefs.Support.Translate" = "Helfe, Columba zu übersetzen";
+
+"Prefs.Updates.Current" = "Aktuelle Version";
+"Prefs.Updates.Latest" = "Neueste Version";
+"Prefs.Updates.Changes" = "Letzte Änderungen";
+"Prefs.Updates.NoChanges" = "Keine Änderungen";
+
+"Prefs.About.Main" = "Hauptsymbol";
+"Prefs.About.Other" = "Andere Symbole";
+
+"AlertCtrl.History.FailedToRetrieve" = "Laden der Gesprächshistorie fehlgeschlagen";
+
+"Emoji.NoTemplates" = "Es sind keine Vorlagen vorhanden.\n\nBitte gehe zu den Einstellungen um Vorlagen hinzuzufügen.";
+
+"ScheduledMsg.Error.Subtitle" = "Wischen um manuell zu senden";
+"ScheduledMsg.Error.Summary" = "Senden der terminierten Nachricht fehlgeschlagen";
+"ScheduledMsg.Error.Message" = "Hier tippen um manuell zu senden";

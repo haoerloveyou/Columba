@@ -1,0 +1,59 @@
+"CK.template" = "Mall";
+
+"Button.History" = "Historik";
+"Button.Forward" = "Vidarebefordra";
+
+"Prefs.QC" = "Snabbsvar";
+"Prefs.UI" = "Gränssnitt";
+"Prefs.OSK" = "Tangentbord på skärmen";
+"Prefs.ScheduledMsgs" = "Schemalagda meddelanden";
+"Prefs.Templates" = "Meddelande mallar";
+"Prefs.Support" = "Hjälp";
+"Prefs.Updates" = "Uppdateringar";
+"Prefs.About" = "Om";
+
+"Prefs.Credits" = "Utvecklat av Mohamed Marbouh";
+
+"Prefs.Website" = "Hemsida";
+
+"Prefs.Native" = "Originell";
+"Prefs.Windowed" = "Fönster";
+
+"Prefs.UI.BG" = "Suddig bakgrund";
+"Prefs.UI.ButtonsLink" = "Knappar";
+
+"Prefs.UI.Buttons.All" = "Ändra alla";
+
+"Prefs.OSK.Emoji" = "Emoji Popup";
+
+"Prefs.ScheduledMsgs.ScheduledMsg" = "Schemalagt meddelande";
+"Prefs.ScheduledMsgs.Recipient" = "Mottagare";
+"Prefs.ScheduledMsgs.Text" = "Text";
+"Prefs.ScheduledMsgs.Date" = "Datum";
+"Prefs.ScheduledMsgs.ScheduleMsg" = "Schemalägg meddelande";
+"Prefs.ScheduledMsgs.Past" = "Tidigare";
+"Prefs.ScheduledMsgs.Future" = "Framtida";
+"Prefs.ScheduledMsgs.DeleteTitle" = "Ta bort helt";
+"Prefs.ScheduledMsgs.DeleteMsg" = "Du måste starta om SpringBoard för att ändringarna ska få sin effekt, vill du göra det nu?";
+
+"Prefs.Templates.Config" = "Mall konfiguration";
+"Prefs.Templates.Create" = "Skapa mall";
+
+"Prefs.Support.Email" = "Skicka ett mail";
+"Prefs.Support.Translate" = "Hjälp till att översätta Columba";
+
+"Prefs.Updates.Current" = "Nuvarande version";
+"Prefs.Updates.Latest" = "Senaste version";
+"Prefs.Updates.Changes" = "Senaste ändringar";
+"Prefs.Updates.NoChanges" = "Inga ändringar";
+
+"Prefs.About.Main" = "Huvudikon";
+"Prefs.About.Other" = "Andra ikoner";
+
+"AlertCtrl.History.FailedToRetrieve" = "Misslyckades med att ladda meddelandehistorik";
+
+"Emoji.NoTemplates" = "Du har inga mallar.\n\nLägg till mallar i inställningarna.";
+
+"ScheduledMsg.Error.Subtitle" = "Dra för att skicka manuellt";
+"ScheduledMsg.Error.Summary" = "Misslyckades med att skicka schemalagt meddelande";
+"ScheduledMsg.Error.Message" = "Tryck här för att skicka manuellt";

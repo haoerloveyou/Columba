@@ -1,0 +1,41 @@
+"CK.template" = "قالب";
+
+"Button.History" = "تاريخ";
+"Button.Forward" = "توجيه";
+
+"Prefs.QC" = "مؤلف سريع";
+"Prefs.UI" = "الواجهة";
+"Prefs.OSK" = "كيبورد على الشاشة";
+"Prefs.ScheduledMsgs" = "رسائل مجدولة";
+"Prefs.Templates" = "قوالب رسالة";
+
+"Prefs.Native" = "الأصلي";
+"Prefs.Windowed" = "إطارات";
+
+"Prefs.UI.BG" = "خلفية ضبابية";
+"Prefs.UI.ButtonsLink" = "أزرار";
+
+"Prefs.UI.Buttons.All" = "جميع الخيارات";
+
+"Prefs.OSK.Emoji" = "تنبيه Emoji";
+
+"Prefs.ScheduledMsgs.ScheduledMsg" = "رسالة مجدولة";
+"Prefs.ScheduledMsgs.Recipient" = "المستلم";
+"Prefs.ScheduledMsgs.Text" = "النص";
+"Prefs.ScheduledMsgs.Date" = "التاريخ";
+"Prefs.ScheduledMsgs.ScheduleMsg" = "جدولة رسالة";
+"Prefs.ScheduledMsgs.Past" = "الماضي";
+"Prefs.ScheduledMsgs.Future" = "المستقبل";
+"Prefs.ScheduledMsgs.DeleteTitle" = "حذف بشكل كامل";
+"Prefs.ScheduledMsgs.DeleteMsg" = "يجب إعادة تشغيل الشاشة الرئيسية لتطبيق التغييرات، هل تود فعل ذلك الآن ؟";
+
+"Prefs.Templates.Config" = "إعدادات القالب";
+"Prefs.Templates.Create" = "انشاء قالب";
+
+"AlertCtrl.History.FailedToRetrieve" = "فشل تحميل سجل تاريخ المحادثة";
+
+"Emoji.NoTemplates" = "ليس لديك قوالب.\n\n رجاءا استخدم صفحة الاعدادات لإضافة قوالب.";
+
+"ScheduledMsg.Error.Subtitle" = "زحلق لإرسالها يدويا";
+"ScheduledMsg.Error.Summary" = "فشل إرسال الرسالة المجدولة";
+"ScheduledMsg.Error.Message" = "إضغط هنا لإرسالها يدويا";

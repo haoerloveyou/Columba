@@ -1,0 +1,59 @@
+"CK.template" = "Plantilla";
+
+"Button.History" = "Historial";
+"Button.Forward" = "Reenviar";
+
+"Prefs.QC" = "Redacción Rápida";
+"Prefs.UI" = "Interfaz";
+"Prefs.OSK" = "Teclado en Pantalla";
+"Prefs.ScheduledMsgs" = "Mensajes Programados";
+"Prefs.Templates" = "Plantillas de mensaje";
+"Prefs.Support" = "Soporte Técnico";
+"Prefs.Updates" = "Actualizaciones";
+"Prefs.About" = "Acerca de";
+
+"Prefs.Credits" = "Desarrollado por Mohamed Marbouh";
+
+"Prefs.Website" = "Sitio Web";
+
+"Prefs.Native" = "Nativo";
+"Prefs.Windowed" = "Ventanas";
+
+"Prefs.UI.BG" = "Fondo Difuminado";
+"Prefs.UI.ButtonsLink" = "Botones";
+
+"Prefs.UI.Buttons.All" = "Alternar Todo";
+
+"Prefs.OSK.Emoji" = "Asomar Emojis";
+
+"Prefs.ScheduledMsgs.ScheduledMsg" = "Mensaje Programado";
+"Prefs.ScheduledMsgs.Recipient" = "Destinatario";
+"Prefs.ScheduledMsgs.Text" = "Texto";
+"Prefs.ScheduledMsgs.Date" = "Fecha";
+"Prefs.ScheduledMsgs.ScheduleMsg" = "Programar Mensaje";
+"Prefs.ScheduledMsgs.Past" = "Pasado";
+"Prefs.ScheduledMsgs.Future" = "Futuro";
+"Prefs.ScheduledMsgs.DeleteTitle" = "Eliminación completa";
+"Prefs.ScheduledMsgs.DeleteMsg" = "Debes reiniciar SpringBoard para que los cambios tomen efecto. ¿Deseas hacerlo ahora?";
+
+"Prefs.Templates.Config" = "Configurar Plantillas";
+"Prefs.Templates.Create" = "Crear Plantilla";
+
+"Prefs.Support.Email" = "Enviar un e-mail";
+"Prefs.Support.Translate" = "Ayuda a traducir Columba";
+
+"Prefs.Updates.Current" = "Versión actual";
+"Prefs.Updates.Latest" = "Última versión";
+"Prefs.Updates.Changes" = "Últimos cambios";
+"Prefs.Updates.NoChanges" = "Sin cambios";
+
+"Prefs.About.Main" = "Ícono principal";
+"Prefs.About.Other" = "Otros íconos";
+
+"AlertCtrl.History.FailedToRetrieve" = "No se pudo cargar el historial de conversación";
+
+"Emoji.NoTemplates" = "No tienes plantillas.\n\nPor favor usa la página de configuración para agregar plantillas.";
+
+"ScheduledMsg.Error.Subtitle" = "Desliza para enviar manualmente";
+"ScheduledMsg.Error.Summary" = "No se pudo enviar el mensaje programado";
+"ScheduledMsg.Error.Message" = "Toca aquí para enviar manualmente";

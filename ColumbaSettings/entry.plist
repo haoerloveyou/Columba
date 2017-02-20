@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = ColumbaSettings;
+		cell = PSLinkCell;
+		detail = "CBSettingsListController";
+		icon = "SettingsIcon.png";
+		isController = YES;
+		label = Columba;
+	};
+}

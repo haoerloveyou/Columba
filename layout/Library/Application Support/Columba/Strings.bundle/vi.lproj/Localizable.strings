@@ -1,0 +1,41 @@
+"CK.template" = "Mẫu";
+
+"Button.History" = "Lịch Sử";
+"Button.Forward" = "Chuyển Tiếp";
+
+"Prefs.QC" = "Soạn Tin Nhanh";
+"Prefs.UI" = "Giao Diện";
+"Prefs.OSK" = "Bàn Phím Trên Màn Hình";
+"Prefs.ScheduledMsgs" = "Tin Nhắn Hẹn Giờ";
+"Prefs.Templates" = "Mẫu Tin Nhắn";
+
+"Prefs.Native" = "Tự Nhiện";
+"Prefs.Windowed" = "Cửa Sổ";
+
+"Prefs.UI.BG" = "Nền Mờ";
+"Prefs.UI.ButtonsLink" = "Nút";
+
+"Prefs.UI.Buttons.All" = "Bật Tất Cả";
+
+"Prefs.OSK.Emoji" = "Emoji Popup";
+
+"Prefs.ScheduledMsgs.ScheduledMsg" = "Tin Nhắn Hẹn Giờ";
+"Prefs.ScheduledMsgs.Recipient" = "Người Nhận";
+"Prefs.ScheduledMsgs.Text" = "Tin Nhắn";
+"Prefs.ScheduledMsgs.Date" = "Ngày";
+"Prefs.ScheduledMsgs.ScheduleMsg" = "Tin Nhắn Hẹn Giờ";
+"Prefs.ScheduledMsgs.Past" = "Quá Khứ";
+"Prefs.ScheduledMsgs.Future" = "Tương Lai";
+"Prefs.ScheduledMsgs.DeleteTitle" = "Xoá hoàn toàn";
+"Prefs.ScheduledMsgs.DeleteMsg" = "Bạn phải khởi động lại SpringBoard để có hiệu lực, bạn có muốn làm không ?";
+
+"Prefs.Templates.Config" = "Chỉnh Mẫu";
+"Prefs.Templates.Create" = "Tạo Mẫu";
+
+"AlertCtrl.History.FailedToRetrieve" = "Không tải được lịch sử cuộc trò chuyện";
+
+"Emoji.NoTemplates" = "Bạn không có mẫu nào.\n\nHãy vào trang cài đặt để thêm mẫu.";
+
+"ScheduledMsg.Error.Subtitle" = "Trượt để gửi thủ công";
+"ScheduledMsg.Error.Summary" = "Không gửi được tin nhắn hẹn giờ";
+"ScheduledMsg.Error.Message" = "Chạm vào đây để gửi thủ công";

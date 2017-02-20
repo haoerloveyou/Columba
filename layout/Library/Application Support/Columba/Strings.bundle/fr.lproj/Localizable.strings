@@ -1,0 +1,67 @@
+"CB.schedule" = "Plannifier";
+"CB.templates" = "Modèles";
+"CB.attachments" = "Pièces jointes";
+
+"CK.template" = "Modèle";
+
+"Button.History" = "Historique";
+"Button.Forward" = "Transférer";
+
+"Prefs.QC" = "Composition Rapide";
+"Prefs.UI" = "Interface";
+"Prefs.OSK" = "Clavier Virtuel";
+"Prefs.ScheduledMsgs" = "Messages Programmés";
+"Prefs.Templates" = "Modèles de Messages";
+"Prefs.Support" = "Support";
+"Prefs.Updates" = "Mises à jour";
+"Prefs.About" = "Infos";
+
+"Prefs.Credits" = "Développé par Mohamed Marbouh";
+
+"Prefs.Website" = "Site web";
+
+"Prefs.Native" = "Natif";
+"Prefs.Windowed" = "Fenêtré";
+
+"Prefs.UI.BG" = "Fond d'Écran lou";
+"Prefs.UI.ButtonsLink" = "Boutons";
+
+"Prefs.UI.Buttons.All" = "Basculer Tous";
+
+"Prefs.OSK.Emoji" = "Fenêtre d'Emoji";
+
+"Prefs.ScheduledMsgs.ScheduledMsg" = "Message Programmé";
+"Prefs.ScheduledMsgs.Recipient" = "Destinataire";
+"Prefs.ScheduledMsgs.Text" = "Texte";
+"Prefs.ScheduledMsgs.Date" = "Date";
+"Prefs.ScheduledMsgs.ScheduleMsg" = "Programmer Message";
+"Prefs.ScheduledMsgs.Past" = "Passé";
+"Prefs.ScheduledMsgs.Future" = "Futur";
+"Prefs.ScheduledMsgs.DeleteTitle" = "Compléter suppression";
+"Prefs.ScheduledMsgs.DeleteMsg" = "Vous devez redémarrer SpringBoard pour que les changements prennent effet, désirez-vous le faire maintenant?";
+
+"Prefs.Templates.Config" = "Configuration Modèle";
+"Prefs.Templates.Create" = "Créer Message Modèle";
+
+"Prefs.Support.Email" = "Envoyer un courriel";
+"Prefs.Support.Translate" = "Aidez à traduire Columba";
+
+"Prefs.Updates.Current" = "Version actuelle";
+"Prefs.Updates.Latest" = "Dernière version";
+"Prefs.Updates.Changes" = "Derniers changements";
+"Prefs.Updates.NoChanges" = "Pas de nouveautés";
+
+"Prefs.Logging" = "Enregistrement";
+
+"Prefs.About.Main" = "Icône principal";
+"Prefs.About.Other" = "Autres icônes";
+
+"DRM.Message" = "Veuillez acheter Columba";
+
+"AlertCtrl.History.FailedToRetrieve" = "Échec du chargement de l'historique";
+
+"Emoji.NoTemplates" = "Vous n'avez pas de messages enregistrés.\n\nVeuillez en rajouter dans le panneau de configuration.";
+
+"ScheduledMsg.Error.Subtitle" = "Faire glisser pour envoyer manuellement";
+"ScheduledMsg.Error.Summary" = "Échec de l'envoi du message programmé";
+"ScheduledMsg.Error.Message" = "Tappez ici pour envoyer manuellement";

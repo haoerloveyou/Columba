@@ -1,0 +1,11 @@
+Package: com.mootjeuh.columba9
+Name: Columba for iOS 9
+Depends: mobilesubstrate
+Conflicts: com.mootjeuh.columba2
+Version: 0.5
+Architecture: iphoneos-arm
+Description: biteSMS-like messaging and more for iOS 9
+Maintainer: Mohamed Marbouh
+Author: Mohamed Marbouh
+Section: Tweaks
+Icon: file:///Library/Application Support/Columba/Resources.bundle/SettingsIcon@2x.png

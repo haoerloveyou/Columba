@@ -1,0 +1,59 @@
+"CK.template" = "Template";
+
+"Button.History" = "Sejarah";
+"Button.Forward" = "Maju";
+
+"Prefs.QC" = "Kompos Laju";
+"Prefs.UI" = "Antara Muka";
+"Prefs.OSK" = "Papan Kekunci atas Skrin";
+"Prefs.ScheduledMsgs" = "Mesej Dijadualkan";
+"Prefs.Templates" = "Mesej Template";
+"Prefs.Support" = "Bantuan";
+"Prefs.Updates" = "Terkini";
+"Prefs.About" = "Pasal";
+
+"Prefs.Credits" = "Dibikin oleh Mohamed Marbouh";
+
+"Prefs.Website" = "Laman Sesawang";
+
+"Prefs.Native" = "Asal";
+"Prefs.Windowed" = "Windowed";
+
+"Prefs.UI.BG" = "Latar Kabur";
+"Prefs.UI.ButtonsLink" = "Butang";
+
+"Prefs.UI.Buttons.All" = "Lanjutan Semua";
+
+"Prefs.OSK.Emoji" = "Emoji Popup";
+
+"Prefs.ScheduledMsgs.ScheduledMsg" = "Mesej Dijadualkan";
+"Prefs.ScheduledMsgs.Recipient" = "Penerima";
+"Prefs.ScheduledMsgs.Text" = "Teks";
+"Prefs.ScheduledMsgs.Date" = "Tarikh";
+"Prefs.ScheduledMsgs.ScheduleMsg" = "Mesej Dijadualkan";
+"Prefs.ScheduledMsgs.Past" = "Terdahulu";
+"Prefs.ScheduledMsgs.Future" = "Masa Depan";
+"Prefs.ScheduledMsgs.DeleteTitle" = "Buang sepenuhnya";
+"Prefs.ScheduledMsgs.DeleteMsg" = "Kamu mesti mulakan SpringBoard untuk semua perubahan berjaya, adakah kamu ingin membuatnya sekarang?";
+
+"Prefs.Templates.Config" = "Konfigurasi Template";
+"Prefs.Templates.Create" = "Cipta Template";
+
+"Prefs.Support.Email" = "Hantarkan e-mail";
+"Prefs.Support.Translate" = "Bantu terjemah Columba";
+
+"Prefs.Updates.Current" = "Versi sekarang";
+"Prefs.Updates.Latest" = "Versi terbaru";
+"Prefs.Updates.Changes" = "Perubahan terbaru";
+"Prefs.Updates.NoChanges" = "Tiada perubahan";
+
+"Prefs.About.Main" = "Ikon utama";
+"Prefs.About.Other" = "Ikon lain-lain";
+
+"AlertCtrl.History.FailedToRetrieve" = "Gagal untuk memuat sejarah percakapan";
+
+"Emoji.NoTemplates" = "Kamu tidak ada templates.\n\nSila gunakan laman Pengubah untuk tambah template.";
+
+"ScheduledMsg.Error.Subtitle" = "Sapu untuk hantar secara manual";
+"ScheduledMsg.Error.Summary" = "Gagal untuk hantar mesej dijadualkan";
+"ScheduledMsg.Error.Message" = "Tap here to send manually";

@@ -1,0 +1,59 @@
+"CK.template" = "Mal";
+
+"Button.History" = "Historikk";
+"Button.Forward" = "Frem";
+
+"Prefs.QC" = "Hurtig Melding";
+"Prefs.UI" = "Grensesnitt";
+"Prefs.OSK" = "Skjermtastatur";
+"Prefs.ScheduledMsgs" = "Planlagte Meldinger";
+"Prefs.Templates" = "Meldingsmaler";
+"Prefs.Support" = "Support";
+"Prefs.Updates" = "Oppdateringer";
+"Prefs.About" = "Om";
+
+"Prefs.Credits" = "Utviklet av Mohamed Marbouh";
+
+"Prefs.Website" = "Nettside";
+
+"Prefs.Native" = "Opprinnelig";
+"Prefs.Windowed" = "Vindu";
+
+"Prefs.UI.BG" = "Sløret Bakgrunn";
+"Prefs.UI.ButtonsLink" = "Knapper";
+
+"Prefs.UI.Buttons.All" = "Velg Alle";
+
+"Prefs.OSK.Emoji" = "Emoji Popup";
+
+"Prefs.ScheduledMsgs.ScheduledMsg" = "Planlagt melding";
+"Prefs.ScheduledMsgs.Recipient" = "Mottaker";
+"Prefs.ScheduledMsgs.Text" = "Tekst";
+"Prefs.ScheduledMsgs.Date" = "Dato";
+"Prefs.ScheduledMsgs.ScheduleMsg" = "Vis melding senere";
+"Prefs.ScheduledMsgs.Past" = "Fortiden";
+"Prefs.ScheduledMsgs.Future" = "Framtiden";
+"Prefs.ScheduledMsgs.DeleteTitle" = "Fullfør sletting";
+"Prefs.ScheduledMsgs.DeleteMsg" = "Du må restarte SpringBoard for at det skal fungere, vil du gjøre det nå?";
+
+"Prefs.Templates.Config" = "Endre maler";
+"Prefs.Templates.Create" = "Lag en ny mal";
+
+"Prefs.Support.Email" = "Send en e-mail";
+"Prefs.Support.Translate" = "Hjelp til å oversette Columba";
+
+"Prefs.Updates.Current" = "Nåværende versjon";
+"Prefs.Updates.Latest" = "Siste versjon";
+"Prefs.Updates.Changes" = "Siste endringer";
+"Prefs.Updates.NoChanges" = "Ingen endringer";
+
+"Prefs.About.Main" = "Hovedikon";
+"Prefs.About.Other" = "Andre ikoner";
+
+"AlertCtrl.History.FailedToRetrieve" = "En problem med nedlastingen av meldinger";
+
+"Emoji.NoTemplates" = "Du har ingen maler.\n\nVennligst lag en ny mal i innstillingene.";
+
+"ScheduledMsg.Error.Subtitle" = "Dra for å sende manuelt";
+"ScheduledMsg.Error.Summary" = "Problem med å sende planlagt melding";
+"ScheduledMsg.Error.Message" = "Trykk her for å sende manuelt";

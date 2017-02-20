@@ -1,0 +1,41 @@
+"CK.template" = "תבנית";
+
+"Button.History" = "היסטוריה";
+"Button.Forward" = "העבר";
+
+"Prefs.QC" = "חבר הודעה";
+"Prefs.UI" = "ממשק";
+"Prefs.OSK" = "מקלדת על המסך";
+"Prefs.ScheduledMsgs" = "הודעות מתוזמנות";
+"Prefs.Templates" = "תבניות הודעה";
+
+"Prefs.Native" = "רגיל";
+"Prefs.Windowed" = "חלון";
+
+"Prefs.UI.BG" = "רקע מטושטש";
+"Prefs.UI.ButtonsLink" = "כפתורים";
+
+"Prefs.UI.Buttons.All" = "שנה מצב להכל";
+
+"Prefs.OSK.Emoji" = "חלון סמיילים";
+
+"Prefs.ScheduledMsgs.ScheduledMsg" = "הודעה מתוזמנת";
+"Prefs.ScheduledMsgs.Recipient" = "נמען";
+"Prefs.ScheduledMsgs.Text" = "תוכן";
+"Prefs.ScheduledMsgs.Date" = "תאריך";
+"Prefs.ScheduledMsgs.ScheduleMsg" = "תזמן הודעה";
+"Prefs.ScheduledMsgs.Past" = "עבר";
+"Prefs.ScheduledMsgs.Future" = "עתיד";
+"Prefs.ScheduledMsgs.DeleteTitle" = "נמחק בהצלחה";
+"Prefs.ScheduledMsgs.DeleteMsg" = "אתה חייב לאתחל את ה-SpringBoard, ברצונך לבצע זאת כעת?";
+
+"Prefs.Templates.Config" = "תצורת תבנית";
+"Prefs.Templates.Create" = "צור תבנית";
+
+"AlertCtrl.History.FailedToRetrieve" = "משיכת היסטורית השיחה נכשלה";
+
+"Emoji.NoTemplates" = "לא קיימות תבניות.\n\nהשתמש בעמוד ההגדרות לשם יצירת תבניות.";
+
+"ScheduledMsg.Error.Subtitle" = "החלק לשליחה ידנית";
+"ScheduledMsg.Error.Summary" = "שליחת ההודעה המתוזמנת נכשלה";
+"ScheduledMsg.Error.Message" = "לחץ כאן לשליחה ידנית";

@@ -1,0 +1,65 @@
+"CB.schedule" = " 列入計畫表";
+"CB.templates" = "範本";
+"CB.attachments" = "附件";
+
+"CK.template" = "模板";
+
+"Button.History" = "歷史";
+"Button.Forward" = "向前";
+
+"Prefs.QC" = "快速撰寫";
+"Prefs.UI" = "界面";
+"Prefs.OSK" = "屏幕鍵盤";
+"Prefs.ScheduledMsgs" = "已計劃的信息";
+"Prefs.Templates" = "信息模板";
+"Prefs.Support" = "支援";
+"Prefs.Updates" = "更新";
+"Prefs.About" = "關於";
+
+"Prefs.Credits" = "開發者: Mohamed Marbouh";
+
+"Prefs.Website" = "網站";
+
+"Prefs.Native" = "本體";
+"Prefs.Windowed" = "視窗";
+
+"Prefs.UI.BG" = "模糊背景";
+"Prefs.UI.ButtonsLink" = "按鈕";
+
+"Prefs.UI.Buttons.All" = "啟動全部";
+
+"Prefs.OSK.Emoji" = "表情符號彈出式";
+
+"Prefs.ScheduledMsgs.ScheduledMsg" = "計劃的信息";
+"Prefs.ScheduledMsgs.Recipient" = "收件人";
+"Prefs.ScheduledMsgs.Text" = "文字";
+"Prefs.ScheduledMsgs.Date" = "日期";
+"Prefs.ScheduledMsgs.ScheduleMsg" = "計劃信息";
+"Prefs.ScheduledMsgs.Past" = "過去";
+"Prefs.ScheduledMsgs.Future" = "未來";
+"Prefs.ScheduledMsgs.DeleteTitle" = "完成刪除";
+"Prefs.ScheduledMsgs.DeleteMsg" = "若想更改生效，您必須重新啟動SpringBoard。您想現在重新啟動嗎？";
+
+"Prefs.Templates.Config" = "模板配置";
+"Prefs.Templates.Create" = "加模板";
+
+"Prefs.Support.Email" = "發電郵";
+"Prefs.Support.Translate" = "幫手翻譯Columba";
+
+"Prefs.Updates.Current" = "現在版本";
+"Prefs.Updates.Latest" = "最新版本";
+"Prefs.Updates.Changes" = "最新改動";
+"Prefs.Updates.NoChanges" = "沒有改動";
+
+"Prefs.About.Main" = "主圖標";
+"Prefs.About.Other" = "其他圖標";
+
+"DRM.Message" = "請購買 Columba";
+
+"AlertCtrl.History.FailedToRetrieve" = "無法加載會話歷史記錄";
+
+"Emoji.NoTemplates" = "您沒有模板\n\n請使用設定頁面中添加模板";
+
+"ScheduledMsg.Error.Subtitle" = "滑動來手動發送";
+"ScheduledMsg.Error.Summary" = "發送已計劃的信息失敗";
+"ScheduledMsg.Error.Message" = "按這裡來手動發送";

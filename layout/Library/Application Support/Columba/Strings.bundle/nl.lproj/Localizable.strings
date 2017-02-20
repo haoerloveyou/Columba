@@ -1,0 +1,66 @@
+"CB.schedule" = "Plannen";
+"CB.templates" = "Sjablonen";
+"CB.attachments" = "Bijlagen";
+
+"CK.template" = "Sjabloon";
+
+"Button.History" = "Geschiedenis";
+"Button.Forward" = "Doorsturen";
+
+"Prefs.QC" = "Compositie";
+"Prefs.UI" = "Interface";
+"Prefs.OSK" = "Toetsenbord";
+"Prefs.ScheduledMsgs" = "Geplande Berichten";
+"Prefs.Templates" = "Berichtsjablonen";
+"Prefs.Support" = "Support";
+"Prefs.Updates" = "Updates";
+"Prefs.About" = "Info";
+
+"Prefs.Credits" = "Ontwikkeld door Mohamed Marbouh";
+
+"Prefs.Website" = "Website";
+
+"Prefs.Native" = "iOS";
+"Prefs.Windowed" = "Venster";
+
+"Prefs.UI.BG" = "Wazig Achtergrond";
+"Prefs.UI.ButtonsLink" = "Knoppen";
+
+"Prefs.UI.Buttons.All" = "Alle";
+
+"Prefs.OSK.Emoji" = "Emoji Popup";
+
+"Prefs.ScheduledMsgs.ScheduledMsg" = "Gepland Bericht";
+"Prefs.ScheduledMsgs.Recipient" = "Recipiënt";
+"Prefs.ScheduledMsgs.Text" = "Tekst";
+"Prefs.ScheduledMsgs.Date" = "Datum";
+"Prefs.ScheduledMsgs.ScheduleMsg" = "Bericht Plannen";
+"Prefs.ScheduledMsgs.Past" = "Voorbij";
+"Prefs.ScheduledMsgs.Future" = "Komend";
+"Prefs.ScheduledMsgs.DeleteTitle" = "Wissing voltooien";
+"Prefs.ScheduledMsgs.DeleteMsg" = "Om de verwijdering te voltooien moet U SpringBoard opnieuw starten, wenst U dit nu te doen?";
+
+"Prefs.Templates.Config" = "Sjabloon Configuratie";
+"Prefs.Templates.Create" = "Sjabloon Aanmaken";
+
+"Prefs.Support.Email" = "Email sturen";
+"Prefs.Support.Translate" = "Columba helpen te vertalen";
+
+"Prefs.Updates.Current" = "Geïnstalleerde versie";
+"Prefs.Updates.Latest" = "Laatste versie";
+"Prefs.Updates.Changes" = "Laatste veranderingen";
+"Prefs.Updates.NoChanges" = "Geen veranderingen";
+"Prefs.Updates.Available" = "Er is een nieuwe versie beschikbaar.";
+
+"Prefs.Logging" = "Logging";
+
+"Prefs.About.Main" = "Hoofdicoon";
+"Prefs.About.Other" = "Andere iconen";
+
+"AlertCtrl.History.FailedToRetrieve" = "Kon gespreksgeschiedenis niet laden";
+
+"Emoji.NoTemplates" = "U heeft geen opgeslagen sjablonen.\n\nGelieve er een nieuwe aan te maken via de instellingen.";
+
+"ScheduledMsg.Error.Subtitle" = "Schuif om zelf te sturen";
+"ScheduledMsg.Error.Summary" = "Kon gepland bericht niet sturen";
+"ScheduledMsg.Error.Message" = "Hier tikken om zelf te sturen";

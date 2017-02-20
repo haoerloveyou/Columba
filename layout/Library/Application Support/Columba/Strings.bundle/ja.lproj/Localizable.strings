@@ -1,0 +1,65 @@
+"CB.schedule" = "スケジュールする";
+"CB.templates" = "テンプレ";
+"CB.attachments" = "添付";
+
+"CK.template" = "テンプレ";
+
+"Button.History" = "履歴";
+"Button.Forward" = "進む";
+
+"Prefs.QC" = "クイック作成";
+"Prefs.UI" = "インターフェース";
+"Prefs.OSK" = "キーボード";
+"Prefs.ScheduledMsgs" = "メッセージのスケジュール送信";
+"Prefs.Templates" = "メッセージのテンプレ";
+"Prefs.Support" = "サポート";
+"Prefs.Updates" = "アップデート";
+"Prefs.About" = "詳細";
+
+"Prefs.Credits" = "Mohamed Marbouh作";
+
+"Prefs.Website" = "ホームページ";
+
+"Prefs.Native" = "標準";
+"Prefs.Windowed" = "ウィンドウ";
+
+"Prefs.UI.BG" = "背景ブラー";
+"Prefs.UI.ButtonsLink" = "ボタン";
+
+"Prefs.UI.Buttons.All" = "全てトグル";
+
+"Prefs.OSK.Emoji" = "絵文字ポップアップ";
+
+"Prefs.ScheduledMsgs.ScheduledMsg" = "メッセージのスケジュール送信";
+"Prefs.ScheduledMsgs.Recipient" = "受取人";
+"Prefs.ScheduledMsgs.Text" = "本文";
+"Prefs.ScheduledMsgs.Date" = "日付";
+"Prefs.ScheduledMsgs.ScheduleMsg" = "メッセージのスケジュール";
+"Prefs.ScheduledMsgs.Past" = "前";
+"Prefs.ScheduledMsgs.Future" = "後";
+"Prefs.ScheduledMsgs.DeleteTitle" = "削除されました";
+"Prefs.ScheduledMsgs.DeleteMsg" = "設定を適用するにはSpringBoardを再起動しなければなりません。今すぐ再起動しますか？";
+
+"Prefs.Templates.Config" = "テンプレ設定";
+"Prefs.Templates.Create" = "テンプレ作成";
+
+"Prefs.Support.Email" = "メールを送る";
+"Prefs.Support.Translate" = "Columbaの翻訳に力を貸す";
+
+"Prefs.Updates.Current" = "現バージョン";
+"Prefs.Updates.Latest" = "最新バージョン";
+"Prefs.Updates.Changes" = "最新の変更点";
+"Prefs.Updates.NoChanges" = "変更なし";
+
+"Prefs.About.Main" = "主要アイコン";
+"Prefs.About.Other" = "その他のアイコン";
+
+"DRM.Message" = "Columbaを買ってください。";
+
+"AlertCtrl.History.FailedToRetrieve" = "会話履歴の読み込みに失敗";
+
+"Emoji.NoTemplates" = "絵文字のテンプレがありません。\n\n設定ページからテンプレを追加してください。";
+
+"ScheduledMsg.Error.Subtitle" = "スライドで手動で送信";
+"ScheduledMsg.Error.Summary" = "メッセージのスケジュール送信に失敗しました";
+"ScheduledMsg.Error.Message" = "手動で送信するにはここをタップしてください";
