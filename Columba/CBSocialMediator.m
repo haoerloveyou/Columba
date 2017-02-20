@@ -30,7 +30,7 @@
 	dispatch_once(&onceToken, ^{
 		sharedInstance = [[self.class alloc] init];
 		
-		[GADMobileAds configureWithApplicationID:@"ca-app-pub-4721921609958243~7785447615"];
+		[GADMobileAds configureWithApplicationID:@"ca-app-pub-user~id"];
 	});
 	
 	return sharedInstance;
@@ -43,11 +43,10 @@
 	}
 	
 	self.bannerView.delegate = self;
-	self.bannerView.adUnitID = @"ca-app-pub-4721921609958243/9262180811";
+	self.bannerView.adUnitID = @"ca-app-pub-user/id";
 	self.bannerView.rootViewController = self.viewController;
 	
 	GADRequest *request = [GADRequest request];
-	request.testDevices = @[@"39ac091fb2ff56802038dd5d76300809"];
 	[self.bannerView loadRequest:request];
 }
 
