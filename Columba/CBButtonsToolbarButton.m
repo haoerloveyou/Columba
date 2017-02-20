@@ -7,6 +7,7 @@
 //
 
 #import "CBButtonsToolbarButton.h"
+#import "CBColour.h"
 
 @implementation CBButtonsToolbarButton
 
@@ -16,7 +17,7 @@
 	
 	if(self) {
 		[self setTitle:title forState:UIControlStateNormal];
-		[self setTitleColor:[UIColor colorWithRed:0 green:.478431 blue:1 alpha:1] forState:UIControlStateNormal];
+		[self setTitleColor:CBColour.blue forState:UIControlStateNormal];
 		[self.titleLabel setAdjustsFontSizeToFitWidth:YES];
 	}
 	
