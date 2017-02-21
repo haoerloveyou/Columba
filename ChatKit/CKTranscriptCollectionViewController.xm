@@ -7,7 +7,6 @@
 @end
 
 static NSString *latestText = nil;
-CKTranscriptCollectionViewController *collectionVC = nil;
 
 %hook CKTranscriptCollectionViewController
 
@@ -23,12 +22,6 @@ CKTranscriptCollectionViewController *collectionVC = nil;
     }
 
 	return result;
-}
-
-- (id)collectionView:(id)arg1 layout:(id)arg2 chatItemForItemAtIndexPath:(id)arg3
-{
-	collectionVC = self;
-	return %orig;
 }
 
 %new
