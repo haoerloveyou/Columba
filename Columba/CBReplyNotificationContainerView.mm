@@ -60,12 +60,7 @@
 		self.summaryText.backgroundColor = [UIColor clearColor];
 		self.summaryText.editable = NO;
         
-        NSLog(@"item: %@", item);
-        NSLog(@"responds: %hhd", (char)[item respondsToSelector:@selector(loadTranscriptText)]);
-        NSLog(@"bulletin: %@", bulletin.content.message);
-        
         if(item && [item respondsToSelector:@selector(loadTranscriptText)]) {
-            NSLog(@"transcript: %@", item.loadTranscriptText);
             self.summaryText.attributedText = item.loadTranscriptText;
         } else {
             self.summaryText.text = bulletin.content.message;
